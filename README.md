@@ -1,8 +1,8 @@
 
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-<p> Work in Progress. </p>
+<h1> Work in Progress.</h1>
+
+<p> The cat will be out of the box shortly </p>
 </body>
 </html>
