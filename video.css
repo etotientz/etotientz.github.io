@@ -20,13 +20,14 @@
     display: block !important;
 }
 .video-container {
-    position: relative;
+    position: fixed;
     bottom: 0%;
     left: 0%;
     height: 100%;
     width: 100%;
     overflow: hidden;
     background: #000;
+    z-index: -1;
 
 }
 .video-container .poster img {
