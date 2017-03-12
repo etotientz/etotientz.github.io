@@ -1,0 +1,7 @@
+
+video #coderpic {
+    position: fixed;
+    right: 0;bottom: 0;min-width: 100%;min-height: 100%;width: auto;
+    height: auto;background-size: cover;z-index: -1;
+}
+video {display: block;}
